@@ -4,7 +4,7 @@ Developed a Responsive Food Order Website named Food Munch using frontend-techno
 
 Technical Implementation:
 
-1. Frontend Development:
+1.Frontend Development:
 
 Designed and developed a fully responsive interface using HTML5 and CSS3.
 Utilized Bootstrap v4 and v5 for an optimized grid system, reusable UI components, and enhanced responsiveness.

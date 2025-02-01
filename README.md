@@ -1,6 +1,6 @@
 # Responsive-Food-Order-Website
 
-Developed a Responsive Food Order Website named Food Munch using frontend-technologies like HTML5, CSS3, and Bootstrap v4 and Bootstrap v5 for grid system and UI components.. It features a visually appealing with sections highlighting the menu, offers, healthy food options, delivery and payment methods and social media links. The website also includes interactive buttons, images, and icons to enhance the user experience with a modern UI, ensuring scalability and responsiveness across devices.
+Developed a Responsive Food Order Website named Eat Mela using frontend-technologies like HTML5, CSS3, and Bootstrap v4 and Bootstrap v5 for grid system and UI components.. It features a visually appealing with sections highlighting the menu, offers, healthy food options, delivery and payment methods and social media links. The website also includes interactive buttons, images, and icons to enhance the user experience with a modern UI, ensuring scalability and responsiveness across devices.
 
 Technical Implementation:
 
